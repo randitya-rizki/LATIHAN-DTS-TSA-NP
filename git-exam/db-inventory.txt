@@ -1,0 +1,3 @@
+Nama Perangkat: cisco router 2031, Lokasi: Kampus A
+Nama Perangkat: cisco router 2032, Lokasi: Kampus B
+Nama Perangkat: cisco router 2033, Lokasi: Kampus C
